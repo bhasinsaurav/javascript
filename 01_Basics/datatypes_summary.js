@@ -13,3 +13,10 @@ const id2 = Symbol('123');
 
 console.log(id == id2)
 console.log(id === id2)
+
+
+// Memory is of 2 types stacks and heaps
+// Stacks are used for primitive datatypes
+// Heaps are used for non-primitive datatypes
+
+let myName = "Saurav";
